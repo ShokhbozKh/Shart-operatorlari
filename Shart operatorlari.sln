@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shart operatorlari", "Shart operatorlari.csproj", "{27146C48-B154-4D65-A1E1-163499D2922B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27146C48-B154-4D65-A1E1-163499D2922B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27146C48-B154-4D65-A1E1-163499D2922B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27146C48-B154-4D65-A1E1-163499D2922B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27146C48-B154-4D65-A1E1-163499D2922B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C344CF4B-C6DD-4C2B-8807-51EA441B6B4D}
+	EndGlobalSection
+EndGlobal
